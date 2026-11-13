@@ -281,10 +281,6 @@ Gold/Silver excluded from toUSD (auto-calculated in USD)
 3. Add environment variables (`VITE_API_URL`, `VITE_ANTHROPIC_API_KEY`)
 4. Build command: `npm run build`
 
-## 🌐 Live URL
-[zakat-h0batvp4q-humailas-projects.vercel.app](https://zakat-h0batvp4q-humailas-projects.vercel.app)
-
-> **Note:** The backend is currently not deployed, so only the frontend interface is active and functioning.
 
 
 ## 🤝 Shariah Compliance
